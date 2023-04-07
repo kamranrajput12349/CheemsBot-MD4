@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -64,13 +64,13 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['/923181718309']
 global.ownertag = '923181718309' //ur tag number
 global.botname = 'ZIDDI SHAHZADA V4' //ur bot name
-global.linkz = "https://chat.whatsapp.com/L9nVDhq34sWJLAyqXXVGR0" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/FRvGnfaxjtZ9E3oAfiWW81" //your theme url which will be displayed on whatsapp
 global.websitex = "923181718309" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "ZIDDI SHAHZADA Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄ZIDDI SHAHZADA KING" //ur sticker watermark author
+global.author = "ZIDDI SHAHZADA KING" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
