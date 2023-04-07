@@ -36,8 +36,8 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923181718309'] //ur owner number
-global.ownername = "🦄ZIDDI SHAHZADA KING" //ur owner name
+global.ownername = "🦄ZIDDI SHAHZADA YT" //ur owner name
 global.ytname = "YT: ZIDDI" //ur yt chanel name
-global.socialm = "GitHub: ZIDDI " //ur github or insta name
+global.socialm = "GitHub: SHAHZADA " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
