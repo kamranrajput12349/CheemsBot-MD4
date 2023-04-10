@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['923181718309'] //ur owner number
-global.ownername = "🦄ZIDDI SHAHZADA YT" //ur owner name
+global.ownername = "🦄ZIDDI SHAHZADA " //ur owner name
 global.ytname = "YT: ZIDDI" //ur yt chanel name
 global.socialm = "GitHub: SHAHZADA " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -64,7 +64,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['/923181718309']
 global.ownertag = '923181718309' //ur tag number
 global.botname = 'ZIDDI SHAHZADA V4' //ur bot name
-global.linkz = "https://chat.whatsapp.com/FRvGnfaxjtZ9E3oAfiWW81" //your theme url which will be displayed on whatsapp
+global.linkz = "https://telegra.ph/file/416692aaeaae75aa8f8fe.jpg" //your theme url which will be displayed on whatsapp
 global.websitex = "923181718309" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
